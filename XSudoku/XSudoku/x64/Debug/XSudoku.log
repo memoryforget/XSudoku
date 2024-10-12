@@ -1,0 +1,86 @@
+﻿  solver.cpp
+C:\Users\27412\Documents\VSProject\XSudoku\cdcl.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“solver.cpp”)
+  
+C:\Users\27412\Documents\VSProject\XSudoku\cdcl.hpp(125,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“solver.cpp”)
+  
+C:\Users\27412\Documents\VSProject\XSudoku\cdcl.hpp(250,40): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“solver.cpp”)
+  
+C:\Users\27412\Documents\VSProject\XSudoku\cdcl.hpp(253,50): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“solver.cpp”)
+  
+C:\Users\27412\Documents\VSProject\XSudoku\cdcl.hpp(306,34): warning C4805: “^”: 在操作中将类型“const _Ty”与类型“bool”混合不安全
+C:\Users\27412\Documents\VSProject\XSudoku\cdcl.hpp(306,34): warning C4805:         with
+C:\Users\27412\Documents\VSProject\XSudoku\cdcl.hpp(306,34): warning C4805:         [
+C:\Users\27412\Documents\VSProject\XSudoku\cdcl.hpp(306,34): warning C4805:             _Ty=int
+C:\Users\27412\Documents\VSProject\XSudoku\cdcl.hpp(306,34): warning C4805:         ]
+  (编译源文件“solver.cpp”)
+  
+C:\Users\27412\Documents\VSProject\XSudoku\cdcl.hpp(344,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“solver.cpp”)
+  
+C:\Users\27412\Documents\VSProject\XSudoku\cdcl.hpp(403,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“solver.cpp”)
+  
+C:\Users\27412\Documents\VSProject\XSudoku\cdcl.hpp(466,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“solver.cpp”)
+  
+C:\Users\27412\Documents\VSProject\XSudoku\cdcl.hpp(473,18): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“solver.cpp”)
+  
+C:\Users\27412\Documents\VSProject\XSudoku\cdcl.hpp(586,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“solver.cpp”)
+  
+C:\Users\27412\Documents\VSProject\XSudoku\solver.cpp(231,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\27412\Documents\VSProject\XSudoku\solver.cpp(356,7): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Software\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(403,61): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“solver.cpp”)
+      C:\Software\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(403,61):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\27412\Documents\VSProject\XSudoku\cdcl.hpp(256,37):
+          查看对正在编译的函数 模板 实例化“void std::vector<int,std::allocator<cdcl::CRef>>::emplace_back<unsigned __int64>(unsigned __int64 &&)”的引用
+          C:\Software\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(858,24):
+          查看对正在编译的函数 模板 实例化“_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<unsigned __int64>(unsigned __int64 &&)”的引用
+          with
+          [
+              _Ty=int
+          ]
+          C:\Software\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(776,20):
+          查看对正在编译的函数 模板 实例化“_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<unsigned __int64>(unsigned __int64 &&)”的引用
+          with
+          [
+              _Ty=int
+          ]
+          C:\Software\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(791,13):
+          查看对正在编译的函数 模板 实例化“void std::_Construct_in_place<int,_Ty>(int &,_Ty &&) noexcept”的引用
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+  
+C:\Software\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,82): warning C4267: “初始化”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Software\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,82): warning C4267:         with
+C:\Software\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,82): warning C4267:         [
+C:\Software\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,82): warning C4267:             _Ty=int
+C:\Software\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,82): warning C4267:         ]
+  (编译源文件“solver.cpp”)
+      C:\Software\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory(700,82):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Software\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(779,17):
+          查看对正在编译的函数 模板 实例化“int *std::vector<int,std::allocator<cdcl::CRef>>::_Emplace_reallocate<_Ty>(int *const ,_Ty &&)”的引用
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+          C:\Software\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(830,23):
+          查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned __int64>(_Alloc &,_Objty *const ,unsigned __int64 &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<cdcl::CRef>,
+              _Ty=int,
+              _Objty=int
+          ]
+  
+  XSudoku.vcxproj -> C:\Users\27412\Documents\VSProject\XSudoku\x64\Debug\XSudoku.exe

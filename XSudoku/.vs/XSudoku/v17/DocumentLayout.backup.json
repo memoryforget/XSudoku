@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DA0901-D5E7-4C78-91DB-50EDD21947EC}|XSudoku.vcxproj|C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\solver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3DA0901-D5E7-4C78-91DB-50EDD21947EC}|XSudoku.vcxproj|solutionrelative:solver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\cdcl.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cdcl.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DA0901-D5E7-4C78-91DB-50EDD21947EC}|XSudoku.vcxproj|C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\display.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3DA0901-D5E7-4C78-91DB-50EDD21947EC}|XSudoku.vcxproj|solutionrelative:display.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DA0901-D5E7-4C78-91DB-50EDD21947EC}|XSudoku.vcxproj|C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\Diagdoku.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3DA0901-D5E7-4C78-91DB-50EDD21947EC}|XSudoku.vcxproj|solutionrelative:Diagdoku.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DA0901-D5E7-4C78-91DB-50EDD21947EC}|XSudoku.vcxproj|C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\Diagdoku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3DA0901-D5E7-4C78-91DB-50EDD21947EC}|XSudoku.vcxproj|solutionrelative:Diagdoku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DA0901-D5E7-4C78-91DB-50EDD21947EC}|XSudoku.vcxproj|C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\solver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3DA0901-D5E7-4C78-91DB-50EDD21947EC}|XSudoku.vcxproj|solutionrelative:solver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DA0901-D5E7-4C78-91DB-50EDD21947EC}|XSudoku.vcxproj|C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\randomSolver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3DA0901-D5E7-4C78-91DB-50EDD21947EC}|XSudoku.vcxproj|solutionrelative:randomSolver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DA0901-D5E7-4C78-91DB-50EDD21947EC}|XSudoku.vcxproj|C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\cnfparser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3DA0901-D5E7-4C78-91DB-50EDD21947EC}|XSudoku.vcxproj|solutionrelative:cnfparser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cdcl.hpp",
+              "DocumentMoniker": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\cdcl.hpp",
+              "RelativeDocumentMoniker": "cdcl.hpp",
+              "ToolTip": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\cdcl.hpp",
+              "RelativeToolTip": "cdcl.hpp",
+              "ViewState": "AgIAAOsBAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T03:43:58.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "solver.cpp",
+              "DocumentMoniker": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\solver.cpp",
+              "RelativeDocumentMoniker": "solver.cpp",
+              "ToolTip": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\solver.cpp",
+              "RelativeToolTip": "solver.cpp",
+              "ViewState": "AgIAAJoAAAAAAAAAAADgv7IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T00:34:52.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "randomSolver.cpp",
+              "DocumentMoniker": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\randomSolver.cpp",
+              "RelativeDocumentMoniker": "randomSolver.cpp",
+              "ToolTip": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\randomSolver.cpp",
+              "RelativeToolTip": "randomSolver.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T00:34:38.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "display.cpp",
+              "DocumentMoniker": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\display.cpp",
+              "RelativeDocumentMoniker": "display.cpp",
+              "ToolTip": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\display.cpp",
+              "RelativeToolTip": "display.cpp",
+              "ViewState": "AgIAAHkAAAAAAAAAAADwv44AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T00:34:22.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Diagdoku.cpp",
+              "DocumentMoniker": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\Diagdoku.cpp",
+              "RelativeDocumentMoniker": "Diagdoku.cpp",
+              "ToolTip": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\Diagdoku.cpp",
+              "RelativeToolTip": "Diagdoku.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T00:34:11.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cnfparser.cpp",
+              "DocumentMoniker": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\cnfparser.cpp",
+              "RelativeDocumentMoniker": "cnfparser.cpp",
+              "ToolTip": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\cnfparser.cpp",
+              "RelativeToolTip": "cnfparser.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T00:34:00.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Diagdoku.h",
+              "DocumentMoniker": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\Diagdoku.h",
+              "RelativeDocumentMoniker": "Diagdoku.h",
+              "ToolTip": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\Diagdoku.h",
+              "RelativeToolTip": "Diagdoku.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T00:33:33.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "solver.h",
+              "DocumentMoniker": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\solver.h",
+              "RelativeDocumentMoniker": "solver.h",
+              "ToolTip": "C:\\Users\\27412\\Documents\\VSProject\\XSudoku\\solver.h",
+              "RelativeToolTip": "solver.h",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T00:33:14.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
